@@ -1,6 +1,6 @@
 # Vanilla RNN
 ## Implemeted vanilla RNN using pytorch without using RNN library
-## Used nn.Linear to model the weights of the RNN
+### Used nn.Linear to model the weights of the RNN
 
 # LSTM
 ## LSTM are gated RNNs which helo to mitigate the effects of exploding or diminishing gradients
